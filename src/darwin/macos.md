@@ -37,8 +37,8 @@
 
 | 时间段 | MacOS名称 | 说明 |
 | ----- | -------- | ---- |
-| 创建 ~ 2001 年 | MachOS Classic	| 古典 MacOS |
-| 2001年 ~ 2011 年 | Mach OS X | NeXTSTEP 与 MacOS Classic 合并之后的版本 |
+| 创建 ~ 2001 年 | MacOS Classic	| 古典 MacOS |
+| 2001年 ~ 2011 年 | Mac OS X | NeXTSTEP 与 MacOS Classic 合并之后的版本 |
 | 2012 年 ~ 2015 年 | OS X | 这是最后一个以猫科动物命名的 OS 版本，此后开始以加州地标命名 |
 | 2016 年至今 | macOS | 便于与iOS、tvOS、watchOS 命名统一 |
   * 架构

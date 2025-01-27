@@ -12,7 +12,6 @@
   * [XNU版本](xnu/version.md)
   * [XNU包含内容](xnu/contain/README.md)
     * [Mach](xnu/contain/mach/README.md)
-      * [Mach消息传递](xnu/contain/mach/mach_message.md)
     * [BSD](xnu/contain/bsd.md)
     * [IOKit](xnu/contain/iokit.md)
 * [关系总结](relation/README.md)

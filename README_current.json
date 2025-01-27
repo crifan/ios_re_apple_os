@@ -1,6 +1,6 @@
 {
-  "latestVersion": "v1.0.0",
-  "lastUpdate": "20241026",
+  "latestVersion": "v1.1.0",
+  "lastUpdate": "20250127",
   "gitRepoName": "ios_re_apple_os",
   "bookName": "iOS逆向：Apple操作系统",
   "bookDescription": "整理iOS逆向期间常会涉及到的Apple操作系统。先是概览；然后是Unix Like系列的系统；然后是Darwin内核，以及相关常见系统macOS和iOS；接着介绍Darwin的内核XNU，包括XNU的架构和组成，源码，以及具体包含内容；包括Mach、BSD、IOKit。Mach中核心内容是Mach消息传递；最后总结iOS、macOS、Darwin、XNU、Mach、BSD、IOKit等之间的关系；"
